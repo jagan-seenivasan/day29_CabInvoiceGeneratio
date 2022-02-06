@@ -6,7 +6,7 @@ namespace CabInvoiceGenerator
 {
     
     
-        //Enum type for rides
+         //Enum type for rides
         public enum RideType
         {
             NORMAL_RIDE, PREMIUM_RIDE
